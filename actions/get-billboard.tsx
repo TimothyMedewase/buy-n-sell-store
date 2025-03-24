@@ -1,5 +1,4 @@
 import { Billboard } from "@/types";
-import { get } from "http";
 
 const URL = `${process.env.NEXT_PUBLIC_API_URL}/billboards`;
 
